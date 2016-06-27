@@ -1,0 +1,48 @@
+﻿  TeleHUD.cpp
+c:\j\rfactor2-deltabest-master\rfactor2-telehud\include\InternalsPlugin.hpp(732): warning C4161: #pragma pack(pop...): more pops than pushes
+..\source\TeleHUD.cpp(231): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+..\source\TeleHUD.cpp(312): warning C4244: 'initializing': conversion from 'const long' to 'float', possible loss of data
+..\source\TeleHUD.cpp(312): warning C4244: 'initializing': conversion from 'const long' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(313): warning C4244: 'initializing': conversion from 'const long' to 'float', possible loss of data
+..\source\TeleHUD.cpp(313): warning C4244: 'initializing': conversion from 'const long' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(314): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\source\TeleHUD.cpp(314): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(316): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+..\source\TeleHUD.cpp(316): warning C4244: 'initializing': conversion from 'unsigned int' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(317): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+..\source\TeleHUD.cpp(317): warning C4244: 'initializing': conversion from 'unsigned int' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(318): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+..\source\TeleHUD.cpp(318): warning C4244: 'initializing': conversion from 'unsigned int' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(319): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+..\source\TeleHUD.cpp(319): warning C4244: 'initializing': conversion from 'unsigned int' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(320): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+..\source\TeleHUD.cpp(320): warning C4244: 'initializing': conversion from 'unsigned int' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(321): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+..\source\TeleHUD.cpp(321): warning C4244: 'initializing': conversion from 'unsigned int' to 'const float', possible loss of data
+..\source\TeleHUD.cpp(329): warning C4838: conversion from 'float' to 'LONG' requires a narrowing conversion
+..\source\TeleHUD.cpp(329): warning C4244: 'initializing': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(348): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+..\source\TeleHUD.cpp(356): warning C4838: conversion from 'const float' to 'LONG' requires a narrowing conversion
+..\source\TeleHUD.cpp(356): warning C4244: 'initializing': conversion from 'const float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(362): warning C4244: '=': conversion from 'const float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(364): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\source\TeleHUD.cpp(365): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\source\TeleHUD.cpp(366): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\source\TeleHUD.cpp(367): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\source\TeleHUD.cpp(378): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(379): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(380): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(381): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(390): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(391): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(392): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(393): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(397): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(398): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(399): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(400): warning C4244: '+=': conversion from 'float' to 'LONG', possible loss of data
+..\source\TeleHUD.cpp(408): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+..\source\TeleHUD.cpp(409): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+     Creating library .\Release/InternalsPlugin.lib and object .\Release/InternalsPlugin.exp
+  InternalsPlugin.vcxproj -> C:\j\rFactor2-DeltaBest-master\rFactor2-TeleHUD\Win32\x64\Release\teleHUD_x64.dll
+  InternalsPlugin.vcxproj -> C:\j\rFactor2-DeltaBest-master\rFactor2-TeleHUD\Win32\x64\Release\teleHUD_x64.pdb (Full PDB)
